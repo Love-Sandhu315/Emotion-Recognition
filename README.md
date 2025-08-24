@@ -27,15 +27,12 @@ cd emotion-detection
 pip install -r requirements.txt
 
 
-3. **Add the trained model**
-
-
-Run the script:
+3. **Run the Script**
 
 * A webcam window will open.
 * Detected faces will be labeled with predicted emotions.
 * Press **Q** to exit.
-
+<br>
 
 ## 📂 Project Structure
 
@@ -46,7 +43,7 @@ emotion-detection/
 │── requirements.txt         # Dependencies  
 │── README.md                # Project documentation  
 │── .gitignore  
-
+<br>
 
 ## 🛠 Tech Stack
 
@@ -55,7 +52,7 @@ emotion-detection/
 * [OpenCV](https://opencv.org/) – Face detection & video capture
 * [NumPy](https://numpy.org/) – Array operations
 
-
+<br>
 
 ## 📌 Future Improvements
 
