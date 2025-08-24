@@ -47,13 +47,6 @@ emotion-detection/
 │── .gitignore
 
 
-
-## 🖼 Demo
-
-(Add a **screenshot** or **demo gif** of the detection window here)
-
----
-
 ## 🛠 Tech Stack
 
 * [PyTorch](https://pytorch.org/) – Deep Learning
