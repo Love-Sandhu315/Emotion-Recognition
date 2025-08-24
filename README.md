@@ -5,6 +5,7 @@ A fine-tuned **ResNet18** model is used to classify emotions into 7 categories w
 
 👉 `Neutral`, `Disgust`, `Fear`, `Happy`, `Angry`, `Sad`, `Surprise`
 
+<br>
 
 ## ✨ Features
 - 📷 Real-time face detection using **Haar Cascades**
@@ -12,7 +13,7 @@ A fine-tuned **ResNet18** model is used to classify emotions into 7 categories w
 - 🧠 Trained to recognize **7 emotions**
 - 🖼 Overlay predictions directly on webcam feed
 
-
+<br>
 ## 🚀 Installation
 
 1. **Clone the repository**
@@ -40,11 +41,11 @@ Run the script:
 
 
 emotion-detection/
-│── main.py                  # Main script
-│── best_resnet18_fer.pth    # Trained model weights (not uploaded if >100MB)
-│── requirements.txt         # Dependencies
-│── README.md                # Project documentation
-│── .gitignore
+│── main.py                  # Main script  
+│── best_resnet18_fer.pth    # Trained model weights (not uploaded if >100MB)  
+│── requirements.txt         # Dependencies  
+│── README.md                # Project documentation  
+│── .gitignore  
 
 
 ## 🛠 Tech Stack
@@ -63,7 +64,7 @@ emotion-detection/
 * ✅ Train on larger datasets for better accuracy
 
 
-
+<br>
 ## 🙌 Acknowledgments
 
 * [FER-2013 Dataset](https://www.kaggle.com/datasets/msambare/fer2013)
@@ -72,7 +73,7 @@ emotion-detection/
 
 ## 👤 Author
 
-**Lovepreet Singh**
+**Lovepreet Singh**  
 🔗 [LinkedIn] (www.linkedin.com/in/lovepreet-singh-395b57231) 
 
 
